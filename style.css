@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(163, 6, 90);
+}
+
+.heading {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+    box-shadow : 5px 5px 5px rgb(7, 219, 226);
+    background-color: rgb(252, 252, 7);
+    color: rgb(146, 10, 151);
+    font-weight: 700;
+}
+
+.note {
+    font-size: 20px;
+    color : black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.copy_right_footer {
+    font-size: medium;
+    font-weight: 700;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: fixed;
+    background-color: rgb(8, 212, 248);
+    color: rgb(5, 7, 110);
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(231, 181, 203);
+}
